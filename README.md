@@ -1,2 +1,2 @@
 # gta-landing
-Web site for the guys that had gta RP servers
+Web site for a GTA5 RP server
